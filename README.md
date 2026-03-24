@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning new technologies
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: **[your email here]**
+- 📫 How to reach me: **ajdsouz1@asu.edu**
 - ⚡ Fun fact: I love building things!
 
 ---
@@ -48,7 +48,7 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
+  <a href="https://linkedin.com/in/AshankDsouza" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/[your-twitter-handle]" target="_blank">
